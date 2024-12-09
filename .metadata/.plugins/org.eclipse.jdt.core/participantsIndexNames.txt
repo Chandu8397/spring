@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\Training\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\864082635.index
+\spring-web\src\main\resources
+D:\Training\spring-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1050306917.index
+\spring-web\src\main\java
